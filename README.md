@@ -1,5 +1,5 @@
 #  🏥 Healthcare Analytics Agent
-
+![Healthcare Analytics Agent Dashboard](healthcare-analytics-agent.png)
 ## Healthcare Analytics AI Agent
 
 Healthcare Analytics Agent is a beginner-friendly healthcare analytics agent that allows users to ask questions about structured healthcare data using natural language.
