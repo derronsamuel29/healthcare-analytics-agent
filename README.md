@@ -18,7 +18,9 @@ This project demonstrates how **data analytics, SQL, Python, and AI-agent concep
 
 ## 🎯 Project Objective
 
-The goal of this project is to make healthcare data analysis more accessible through a natural-language interface.
+The goal of this project is to demonstrate how an AI-agent-style architecture can be applied to healthcare data analytics.
+
+The current version uses a rule-based natural-language-to-SQL layer, with a modular architecture designed to support future LLM integration.
 
 Instead of writing SQL manually, users can ask questions such as:
 
