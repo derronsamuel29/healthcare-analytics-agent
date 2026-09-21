@@ -1,8 +1,8 @@
-# 🏥 Optum Care Intelligence Agent
+#  🏥 Healthcare Analytics Agent
 
 ## Healthcare Analytics AI Agent
 
-Optum Care Intelligence is a beginner-friendly healthcare analytics agent that allows users to ask questions about structured healthcare data using natural language.
+Healthcare Analytics Agent is a beginner-friendly healthcare analytics agent that allows users to ask questions about structured healthcare data using natural language.
 
 The system converts user questions into analytical SQL queries, validates the queries for security, executes them against a MySQL database, and converts the results into easy-to-understand responses.
 
